@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1643379407 source:e:\project work\food order management system\code\food-order-management-system\main.c
+	"CommonFunctions.h"
+	"AddDish.h"
+	"PlaceOrder.h"
+	"AdminFunctions.h"
+
+1643542285 e:\project work\food order management system\code\food-order-management-system\adddish.h
+	<stdio.h>
+
+1643541688 source:e:\project work\food order management system\code\food-order-management-system\adddish.c
+	"AddDish.h"
+	"CommonFunctions.h"
+
+1642864732 source:e:\project work\food order management system\code\food-order-management-system\commonfunctions.c
+	"CommonFunctions.h"
+
+1643542311 e:\project work\food order management system\code\food-order-management-system\commonfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1643470317 source:e:\project work\food order management system\code\food-order-management-system\placeorder.c
+	"AddDish.h"
+	"PlaceOrder.h"
+	"CommonFunctions.h"
+
+1643542357 e:\project work\food order management system\code\food-order-management-system\placeorder.h
+	"AddDish.h"
+
+1643542331 e:\project work\food order management system\code\food-order-management-system\adminfunctions.h
+	<stdio.h>
+	<string.h>
+
+1643389388 source:e:\project work\food order management system\code\food-order-management-system\adminfunctions.c
+	"AdminFunctions.h"
+	"CommonFunctions.h"
+
+1643379261 source:e:\project work\food order management system\code\food-order-management-system\customerfunctions.c
+	"CustomerFunctions.h"
+
+1643542360 e:\project work\food order management system\code\food-order-management-system\customerfunctions.h
+	<stdio.h>
+
+1643541904 e:\project work\food order management system\code\food-order-management-system\configurations.h
+
